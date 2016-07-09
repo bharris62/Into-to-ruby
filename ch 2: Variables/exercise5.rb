@@ -1,5 +1,7 @@
-y = 0
+#look at the following programs and determine what they will do, and if
+#they will run correctly. 
 
+y = 0
 3.times do
   y += 1
   x = y
